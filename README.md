@@ -21,6 +21,6 @@ Project is simple web-site, that has next features:
 ## Start
 1. Download the project as zip or do a git clone
 2. Go to the root dir
-3. Use the standart node app installation process to use the application (nmp install)
+3. Use the standart node app installation process to use the application (npm install)
 4. To run application need to run following command for client and server parts: ```nmp start``` 
 
